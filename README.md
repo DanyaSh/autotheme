@@ -1,0 +1,2 @@
+# autotheme
+Script for autotheme
